@@ -16,7 +16,7 @@ const forecast = (location, callback) => {
           body.current.temperature +
           " degress out. It feels like " +
           body.current.feelslike +
-          "degrees out. " +
+          " degrees out. " +
           "There is a " +
           body.current.precip +
           "% chance of rain." +
